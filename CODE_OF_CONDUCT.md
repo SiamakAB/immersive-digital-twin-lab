@@ -68,7 +68,7 @@ Community leaders will follow these **Community Impact Guidelines** in determini
 ---
 
 ## Attribution
-*This Code of Conduct is adapted from the [Contributor Covenant, version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).  
-Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.*  
+<small>*This Code of Conduct is adapted from the [Contributor Covenant, version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).  
+Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.* </small> 
 
-*For answers to common questions, see the [FAQ](https://www.contributor-covenant.org/faq). Translations are available [here](https://www.contributor-covenant.org/translations).*
+<small>*For answers to common questions, see the [FAQ](https://www.contributor-covenant.org/faq). Translations are available [here](https://www.contributor-covenant.org/translations).*</small>
