@@ -3,7 +3,7 @@
 > This document outlines recommended long-term goals and objectives for XR integration within the DIWA Flagship.  
 > It is intended as a draft for discussion and may be refined over time.  
 
-## Table 1 – Recommended XR Long-Term Goals and Objectives
+## Table – Recommended XR Long-Term Goals and Objectives
 
 | Goal | Objectives | Expected Outcomes |
 |------|-----------|-----------------|
