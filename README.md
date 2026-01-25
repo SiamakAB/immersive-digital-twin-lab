@@ -87,7 +87,7 @@ Contribute your insights, ask questions, and help shape the future of the Immers
 <ul>
   <li>Review our <strong>Contributing Guidelines</strong></li>
   <li>Read the <strong>Code of Conduct</strong>  
-    👉 <a href="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a>
+    👉 <a href="CODE_OF_CONDUCT.md">here</a>
   </li>
   <li>Open issues, propose features, or submit pull requests</li>
   <li>Collaborate on <strong>digital twin and XR use cases</strong></li>
@@ -100,25 +100,25 @@ Contribute your insights, ask questions, and help shape the future of the Immers
   <li>
     <strong>Data requirements for immersive demonstrations</strong><br>
     For information on the types of data to be shared with the Immersive Digital Twin Lab for XR-based demonstrations, please refer to:<br>
-    👉 <a href="docs/data-requirements.md">docs/data-requirements.md</a>
+    👉 <a href="docs/data-requirements.md">data-requirements</a>
   </li>
   <br>
   <li>
     <strong>Proposed XR roadmap and future planning</strong><br>
     For the planned/proposed XR development roadmap and long-term objectives for XR integration, please see:<br>
-    👉 <a href="docs/xr-roadmap.md">docs/xr-roadmap.md</a>
+    👉 <a href="docs/xr-roadmap.md">xr-roadmap</a>
   </li>
   <br>
   <li>
     <strong>XR Activities and Implementation</strong><br>
     For concrete activities supporting the XR roadmap—including workshops, newsletters, demo days, online courses, and infrastructure development—please see:<br>
-    👉 <a href="docs/xr-activities.md">docs/xr-activities.md</a>
+    👉 <a href="docs/xr-activities.md">xr-activities</a>
   </li>
   <br>
   <li>
     <strong>Digital Waters GitHub organization</strong><br>
     To explore repositories, tools, and digital twin initiatives developed within the Digital Waters Flagship, visit:<br>
-    👉 <a href="https://github.com/DigitalWaters-fi">DigitalWaters-fi on GitHub</a>
+    👉 <a href="https://github.com/DigitalWaters-fi">DigitalWaters-fi Page</a>
   </li>
 </ul>
 
@@ -128,7 +128,7 @@ Contribute your insights, ask questions, and help shape the future of the Immers
 
 <h2 align="center">Contact</h2>
 
-Questions, suggestions, or collaboration inquiries are welcome: <a href="mailto:siamak.bazzaz@oulu.fi">siamak.bazzaz@oulu.fi</a>
+Questions, suggestions, or collaboration inquiries are welcome: <a href="mailto:siamak.bazzaz@oulu.fi">*siamak.bazzaz@oulu.fi*</a>
 
 
 ---
