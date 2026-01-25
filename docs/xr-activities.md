@@ -3,7 +3,7 @@
 > This document outlines recommended XR activities to support the long-term goals of the Immersive Digital Twin Lab within the DIWA Flagship.  
 > It is intended as a draft for discussion and may be refined over time.
 
-## Table 2 – Recommended XR Activities
+## Table – Recommended XR Activities
 
 | Activity | Type | Frequency | Expected Impact |
 |----------|------|-----------|----------------|
