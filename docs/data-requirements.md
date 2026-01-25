@@ -1,8 +1,6 @@
-# Data Requirements for Immersive XR / VR Demonstrations
+# Data Requirements for Immersive XR Demonstrations
 
-> This document outlines the preferred data types and formats for use in the **Immersive Digital Twin Lab** at the University of Oulu.  
-> These datasets will enable accurate 3D modeling, VR demonstrations, and interactive exploration of supersites and use cases within the DIWA XR environment.  
-> This page is a draft and subject to updates. Feedback is welcome.
+*This document outlines the preferred data types and formats for use in the **Immersive Digital Twin Lab** at the University of Oulu. These datasets will enable accurate 3D modeling, VR demonstrations, and interactive exploration of supersites and use cases within the DIWA XR environment. This page is a draft and subject to updates. Feedback is welcome.*
 
 ---
 
@@ -11,7 +9,7 @@
 The **DIWA XR Lobby** is being developed to provide an **immersive, interactive, and visually intuitive environment** for demonstrating selected supersites and real-world use cases.  
 High-quality VR demonstrations rely on consistent, accurate, and complete datasets, enabling 3D visualization, time-based analysis, and scenario exploration of water infrastructure and environmental processes.
 
-To support this, we kindly request contributions from DIWA partners following the data guidelines below.
+To support this, we kindly request contributions from DIWA *researchers/partners* following the data guidelines below.
 
 ---
 
@@ -60,7 +58,7 @@ To support this, we kindly request contributions from DIWA partners following th
 
 **Preferred formats:** LAS/LAZ (point clouds), OBJ/FBX (meshes), orthophotos  
 
-> These datasets are particularly valuable for high-fidelity VR visualization of supersites.
+*These datasets are particularly valuable for high-fidelity VR visualization of supersites.*
 
 ---
 
@@ -80,12 +78,12 @@ To streamline data sharing:
    - Submit it along with corresponding files or cloud links.
 
 2. **Submission Options**  
-   - **DIWA DataLab (preferred):** Upload datasets, 3D models, and related files to the collaborative cloud workspace on CSC Rahti infrastructure.  
+   - **DIWA DataLab:** Upload datasets, 3D models, and related files to the collaborative cloud workspace on CSC Rahti infrastructure.  
    - **Email submission:** Send completed materials directly to `siamak.bazzaz@oulu.fi`.
 
-Your contributions are essential for creating accurate, meaningful, and immersive XR demonstrations.  
+*Your contributions are essential for creating accurate, meaningful, and immersive XR demonstrations.* 
 
 ---
 
-> ⚠️ **Note:** This page is under construction. Updates and clarifications will be provided as the Immersive Digital Twin Lab develops. Feedback, suggestions, and questions are highly appreciated.
+⚠️ ***Note:** This page is under construction. Updates and clarifications will be provided as the Immersive Digital Twin Lab develops. Feedback, suggestions, and questions are highly appreciated.*
 
