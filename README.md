@@ -32,15 +32,15 @@ The **Immersive Digital Twin Lab** is established at the **University of Oulu**,
 *The lab operates primarily under **RT4: Digital Services, Platforms, and Business Applications**, in collaboration with other research themes (RT4: Digital services, platforms, and business applications | Interoperable digital solutions for sharing and exploring data, and co-creation of services)*
 
 
-<p align="center">XR Services</h2>
+<p align="center"><strong>Table: XR Services</strong></p>
 
 | XR Service | Description |
 |------------|-------------|
-| [DT Integration](docs/xr-roadmap.md#dt-integration) | *Connect VR app to DIWA Digital Twin backend for synchronized model & sensor data.* |
-| [WebGIS Interop](docs/xr-roadmap.md#webgis-interop) | *Seamless integration with ArcGIS Pro, Enterprise, and Online; 2D dashboards ↔ 3D immersive exploration.* |
-| [3D Sim & Design](docs/xr-roadmap.md#3d-sim-design) | *Immersive VR environments in Unity, Cesium, and ArcGIS SDKs for city-scale hydrological & spatial simulations.* |
-| [Collaborative VR](docs/xr-activities.md#collaborative-vr) | *Multi-user VR sessions for co-exploration, participatory planning, and stakeholder engagement.* |
-| [AI Assistant](docs/xr-activities.md#ai-assistant) | *Generative AI assistants for natural-language queries, scenario explanations, and interactive model exploration.* |
+| DT Integration | *Connect VR app to DIWA Digital Twin backend for synchronized model & sensor data.* |
+| GIS Interop| *Seamless integration with ArcGIS Pro, Enterprise, and Online; 2D dashboards ↔ 3D immersive exploration.* |
+| 3D Sim & Design| *Immersive VR environments in Unity, Cesium, and ArcGIS SDKs for city-scale hydrological & spatial simulations.* |
+| Collaborative VR| *Multi-user VR sessions for co-exploration, participatory planning, and stakeholder engagement.* |
+| AI Assistant| *Generative AI assistants for natural-language queries, scenario explanations, and interactive model exploration.* |
 
 *The Immersive Digital Twin Lab leverages these XR services to demonstrate and explore supersites and real-world use cases. XR demonstrations will initially be conducted in **VR environments** (3DoF, 6DoF, tabletop, 1:1 scale) to provide fully immersive, interactive experiences. Subsequently, these experiences will be extended to **Mixed Reality (MR) and Augmented Reality (AR) devices**, enabling multi-scale visualization, collaborative exploration, and stakeholder engagement across diverse digital twin scenarios.*
 
