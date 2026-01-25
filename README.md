@@ -26,7 +26,7 @@ Our mission is to enable **scalable, interoperable, and collaborative digital tw
 ## Organizational Structure
 The lab operates primarily under **RT4: Digital Services, Platforms, and Business Applications**, in collaboration with other research themes.
 
-| RT4: Digital services, platforms, and business applications | Interoperable digital solutions for sharing and exploring data, and co-creation of services |
+RT4: Digital services, platforms, and business applications | Interoperable digital solutions for sharing and exploring data, and co-creation of services
 
 ### XR Services
 
@@ -39,9 +39,6 @@ The lab operates primarily under **RT4: Digital Services, Platforms, and Busines
 | AI Assistant | Generative AI assistants for natural-language queries, scenario explanations, and interactive model exploration. |
 
 *The Immersive Digital Twin Lab leverages these XR services to demonstrate and explore supersites and real-world use cases. XR demonstrations will initially be conducted in **VR environments** (3DoF, 6DoF, tabletop, 1:1 scale) to provide fully immersive, interactive experiences. Subsequently, these experiences will be extended to **Mixed Reality (MR) and Augmented Reality (AR) devices**, enabling multi-scale visualization, collaborative exploration, and stakeholder engagement across diverse digital twin scenarios.*
-
-| RT5: Stakeholder Collaboration | Methods and platforms for collaborative design, immersive co-creation, and multi-user interaction |
-| Training & Capacity Building | Workshops, tutorials, and hands-on sessions to train students and researchers in XR and digital twin technologies |
 
 ## Key Technologies
 We build upon **open, scalable, and interoperable architectures**, including:
