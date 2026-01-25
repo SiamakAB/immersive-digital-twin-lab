@@ -1,7 +1,7 @@
 # Immersive Digital Twin Lab Code of Conduct
 
 ## Our Pledge
-We, as members, contributors, and leaders of the Immersive Digital Twin Lab community, pledge to make participation in our community a **harassment-free experience** for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+*We, as members, contributors, and leaders of the Immersive Digital Twin Lab community, pledge to make participation in our community a **harassment-free experience** for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.*
 
 We pledge to act and interact in ways that contribute to an **open, welcoming, diverse, inclusive, and healthy community**.
 
@@ -27,21 +27,21 @@ Examples of unacceptable behavior include:
 ---
 
 ## Enforcement Responsibilities
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to behavior they deem inappropriate, threatening, offensive, or harmful.
+*Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to behavior they deem inappropriate, threatening, offensive, or harmful.*
 
-Community leaders have the right and responsibility to **remove, edit, or reject** comments, commits, code, wiki edits, issues, and other contributions not aligned with this Code of Conduct, and will communicate reasons for moderation when appropriate.
+*Community leaders have the right and responsibility to **remove, edit, or reject** comments, commits, code, wiki edits, issues, and other contributions not aligned with this Code of Conduct, and will communicate reasons for moderation when appropriate.*
 
 ---
 
 ## Scope
-This Code of Conduct applies within all community spaces and when an individual is **representing the community publicly**, including official communications or acting as a representative at events (online or offline).
+*This Code of Conduct applies within all community spaces and when an individual is **representing the community publicly**, including official communications or acting as a representative at events (online or offline).*
 
 ---
 
 ## Reporting
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to community leadership through official project channels.  
 
-All complaints will be reviewed and investigated **promptly and fairly**, and community leaders are obligated to respect the **privacy and security** of the reporter.
+*All complaints will be reviewed and investigated **promptly and fairly**, and community leaders are obligated to respect the **privacy and security** of the reporter.*
 
 ---
 
@@ -68,7 +68,7 @@ Community leaders will follow these **Community Impact Guidelines** in determini
 ---
 
 ## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant, version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).  
-Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.  
+*This Code of Conduct is adapted from the [Contributor Covenant, version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).  
+Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.*  
 
-For answers to common questions, see the [FAQ](https://www.contributor-covenant.org/faq). Translations are available [here](https://www.contributor-covenant.org/translations).
+*For answers to common questions, see the [FAQ](https://www.contributor-covenant.org/faq). Translations are available [here](https://www.contributor-covenant.org/translations).*
