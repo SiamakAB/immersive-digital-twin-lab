@@ -6,7 +6,7 @@
 
 | Activity | Type | Frequency | Expected Impact |
 |----------|------|-----------|----------------|
-| XR Technology Newsletter | Short-Term | Bi-weekly | *Share updates, trends, and news around XR for the research community and DIWA stakeholders. Keeps the community informed and engaged.* |
+| XR Technology Newsletter | Short-Term | Monthly | *Share updates, trends, and news around XR for the research community and DIWA stakeholders. Keeps the community informed and engaged.* |
 | One-Day XR Workshop | Short-Term | Biannual | *Provide hands-on training on XR tools and applications for students, researchers, and staff, including practical sessions in the Immersive Digital Twin Lab.* |
 | Online XR Development Course | Medium-Term | Ongoing, subscription-based | *Structured learning for VR/MR and digital twin applications accessible online for national and international participants. Builds capacity and broadens access to XR expertise.* |
 | Collaboration with Other XR Labs | Medium-Term | Ongoing | *Establish partnerships with national and international XR labs to share expertise, resources, and best practices. Enhances research quality and global networking.* |
